@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-jarvis-avengers-power/static/css/main.349d8da6.chunk.css",
+    "main.js": "/react-jarvis-avengers-power/static/js/main.34754514.chunk.js",
+    "main.js.map": "/react-jarvis-avengers-power/static/js/main.34754514.chunk.js.map",
+    "runtime-main.js": "/react-jarvis-avengers-power/static/js/runtime-main.628b7f0a.js",
+    "runtime-main.js.map": "/react-jarvis-avengers-power/static/js/runtime-main.628b7f0a.js.map",
+    "static/js/2.59d41888.chunk.js": "/react-jarvis-avengers-power/static/js/2.59d41888.chunk.js",
+    "static/js/2.59d41888.chunk.js.map": "/react-jarvis-avengers-power/static/js/2.59d41888.chunk.js.map",
+    "index.html": "/react-jarvis-avengers-power/index.html",
+    "static/css/main.349d8da6.chunk.css.map": "/react-jarvis-avengers-power/static/css/main.349d8da6.chunk.css.map",
+    "static/js/2.59d41888.chunk.js.LICENSE.txt": "/react-jarvis-avengers-power/static/js/2.59d41888.chunk.js.LICENSE.txt",
+    "static/media/jarvis-circle.ba2eb816.png": "/react-jarvis-avengers-power/static/media/jarvis-circle.ba2eb816.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.628b7f0a.js",
+    "static/js/2.59d41888.chunk.js",
+    "static/css/main.349d8da6.chunk.css",
+    "static/js/main.34754514.chunk.js"
+  ]
+}
